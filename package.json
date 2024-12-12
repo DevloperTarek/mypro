@@ -1,0 +1,26 @@
+{
+  "name": "mypro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/style.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevloperTarek/mypro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevloperTarek/mypro/issues"
+  },
+  "homepage": "https://github.com/DevloperTarek/mypro#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
